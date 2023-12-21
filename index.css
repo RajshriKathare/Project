@@ -123,6 +123,7 @@ body{
   background-color: blue;
   border-radius: 20px;
   color: white;
+  border: none;
 }
 
 .s3{
