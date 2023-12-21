@@ -8,91 +8,91 @@ body{
 }
 
 .navbar{
-  height: 80px;
-  width: 100%;
- background-color: white;
- /* position: fixed; */
-   /* z-index: -8; */
-  border-bottom: 2px solid black;
+    height: 80px;
+    width: 100%;
+   background-color: white;
+   /* position: fixed; */
+     /* z-index: -8; */
+    border-bottom: 2px solid black;
 }
 .logo{
-  position: absolute;
-  height: 60px;
-  width: 180px;
-  top: 15px;
-  left: 50px;
-  /* border: 2px solid black; */
+    position: absolute;
+    height: 60px;
+    width: 180px;
+    top: 15px;
+    left: 50px;
+    /* border: 2px solid black; */
 }
 .nmenu{
-  display: flex;
-  /* border: 2px solid black; */
+    display: flex;
+    /* border: 2px solid black; */
 }
 .nm10{
-  position: absolute;
-  top: 24px;
-  left: 1400px;
-  /* z-index: -8; */
+    position: absolute;
+    top: 24px;
+    left: 1400px;
+    /* z-index: -8; */
 }
 .nm9{
-  position: absolute;
-  top: 28px;
-  left: 1325px;
-  /* z-index: -8; */
+    position: absolute;
+    top: 28px;
+    left: 1325px;
+    /* z-index: -8; */
 }
 .nm8{
-  position: absolute;
-  top: 30px;
-  left: 1200px;
+    position: absolute;
+    top: 30px;
+    left: 1200px;
 }
 .nm7{
-  position: absolute;
-  top: 30px;
-  left: 1068px;
+    position: absolute;
+    top: 30px;
+    left: 1068px;
 }
 .nm6{
-  position: absolute;
-  top: 30px;
-  left: 925px;
+    position: absolute;
+    top: 30px;
+    left: 925px;
 }
 .nm5{
-  position: absolute;
-  top: 30px;
-  left: 830px;
+    position: absolute;
+    top: 30px;
+    left: 830px;
 }
 .nm4{
-  position: absolute;
-  top: 30px;
-  left: 710px;
+    position: absolute;
+    top: 30px;
+    left: 710px;
 }
 .nm3{
-  position: absolute;
-  top: 30px;
-  left: 620px;
+    position: absolute;
+    top: 30px;
+    left: 620px;
 }
 .nm2{
-  position: absolute;
-  top: 30px;
-  left: 515px;
+    position: absolute;
+    top: 30px;
+    left: 515px;
 }
 .nm1{
-  position: absolute;
-  top: 30px;
-  left: 435px;
+    position: absolute;
+    top: 30px;
+    left: 435px;
 }
 .nm1, .nm2, .nm3, .nm4, .nm5, .nm6, .nm7, .nm8, .nm9, .nm10{
-  /* font-weight: bold; */
-  color: black;
-  font-size: 18px;
-  font-family: Arial, Helvetica, sans-serif;
-  transition: 0.5s;
-  cursor: pointer;
+    /* font-weight: bold; */
+    color: black;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 0.5s;
+    cursor: pointer;
 }
 .nm1 a, .nm2 a, .nm3 a, .nm4 a, .nm5 a, .nm6 a, .nm7 a, .nm8 a, .nm9 a, .nm10 a{
-  color: black;
-  text-decoration: none;
+    color: black;
+    text-decoration: none;
 }
 .nm1 a:hover, .nm2 a:hover, .nm3 a:hover, .nm4 a:hover, .nm5 a:hover, .nm6 a:hover, .nm7 a:hover, .nm8 a:hover, .nm9 a:hover, .nm10 a:hover{
-  color: #0926e0;
+    color: #0926e0;
 }
 .subnav{
   height: 60px;
@@ -428,8 +428,3 @@ body{
     opacity: 1;
   }
 }
-
-
-
-
-     
