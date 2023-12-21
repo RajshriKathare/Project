@@ -276,7 +276,129 @@ body{
     display: flex;
     
   }
-  
+  .footer{
+    position: absolute;
+    left: 0px;
+    top: 2350px;
+    height: 500px;
+    width: 100%;
+    background-color: rgb(40, 44, 49);
+    z-index: 8;
+    margin-top: 1099px;
+
+}
+.line1{
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    color: whitesmoke;
+}
+.line1 p{
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.line1 li{
+    cursor: pointer;
+    transition: 0.2s;
+}
+.line1 a:hover{
+    /* transform: scale(); */
+    color: #0926e0;
+}
+.line1 a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.line2{
+    position: absolute;
+    top: 80px;
+    left: 320px;
+    color: whitesmoke;
+}
+.line2 p{
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.line2 li{
+    cursor: pointer;
+    transition: 0.2s;
+}
+.line2 a:hover{
+    /* transform: scale(); */
+    color: #0926e0;
+}
+.line2 a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.line3{
+    position: absolute;
+    top: 80px;
+    left: 580px;
+    color: whitesmoke;
+}
+.line3 p{
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.line3 li{
+    cursor: pointer;
+    transition: 0.2s;
+}
+.line3 a:hover{
+    /* transform: scale(); */
+    color: #0926e0;
+}
+.line3 a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.line4{
+    position: absolute;
+    top: 80px;
+    left: 800px;
+    color: whitesmoke;
+}
+.line4 p{
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.line4 li{
+    cursor: pointer;
+    transition: 0.2s;
+}
+.line4 a:hover{
+    /* transform: scale(); */
+    color: #0926e0;
+}
+.line4 a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.chat{
+    position: absolute;
+    top: 80px;
+    left: 1130px;
+    color: whitesmoke;
+    transition: 0.2s;
+}
+.chatop:hover{
+    color: #0926e0;
+}
+.call{
+    position: absolute;
+    top: 200px;
+    left: 1130px;
+    color: whitesmoke;
+    transition: 0.2s;
+}
+.call2{
+    position: absolute;
+    top: 300px;
+    left: 1130px;
+    color: whitesmoke;
+    transition: 0.2s;
+}
   
   
 @-webkit-keyframes tracking-in-expand {
