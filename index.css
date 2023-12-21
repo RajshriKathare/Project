@@ -1,0 +1,294 @@
+body{
+  
+  margin: 0px;
+  padding: 0px;
+  
+}
+.nav{
+    height: 80px;
+    width: 100%;
+    height: 80px;
+    width: 100%;
+   background-color: white;
+   /* position: fixed; */
+     /* z-index: -8; */
+    border-bottom: 2px solid black;
+}
+.logo{
+    position: absolute;
+    height: 60px;
+    width: 180px;
+    top: 15px;
+    left: 50px;
+    /* border: 2px solid black; */
+}
+.nmenu{
+    display: flex;
+    /* border: 2px solid black; */
+}
+.nm10{
+    position: absolute;
+    top: 28px;
+    left: 1400px;
+    /* z-index: -8; */
+}
+.nm9{
+    position: absolute;
+    top: 28px;
+    left: 1325px;
+    /* z-index: -8; */
+}
+.nm8{
+    position: absolute;
+    top: 30px;
+    left: 1200px;
+}
+.nm7{
+    position: absolute;
+    top: 30px;
+    left: 1068px;
+}
+.nm6{
+    position: absolute;
+    top: 30px;
+    left: 925px;
+}
+.nm5{
+    position: absolute;
+    top: 30px;
+    left: 830px;
+}
+.nm4{
+    position: absolute;
+    top: 30px;
+    left: 710px;
+}
+.nm3{
+    position: absolute;
+    top: 30px;
+    left: 620px;
+}
+.nm2{
+    position: absolute;
+    top: 30px;
+    left: 515px;
+}
+.nm1{
+    position: absolute;
+    top: 30px;
+    left: 435px;
+}
+.nm1, .nm2, .nm3, .nm4, .nm5, .nm6, .nm7, .nm8{
+    /* font-weight: bold; */
+    color: black;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 0.5s;
+}
+.nm1:hover, .nm2:hover, .nm3:hover, .nm4:hover, .nm5:hover, .nm6:hover, .nm7:hover, .nm8:hover{
+    color: #0926e0;
+}
+.subnav{
+  height: 60px;
+  width: 100%;
+  background-color:white;
+ display: flex;
+ word-spacing: 20px;
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: bold;
+ border: none;
+ margin-top: 10px;
+ 
+ 
+
+}
+.s6{
+  position: absolute;
+  top: 120px;
+  left:1300px ;
+  
+}
+.s5{
+  position: absolute;
+  top: 120px;
+  left: 1100px;
+}
+.s4{
+  height: 30px;
+  width: 80px;
+  background-color: blue;
+  border-radius: 20px;
+  color: white;
+}
+
+.s3{
+  position: absolute;
+  top: 120px;
+  left: 950px;
+}
+.s2{
+  position: absolute;
+  top: 120px;
+  left:750px ;
+
+}
+.s1{
+  position: absolute;
+  top: 120px;
+  left: 20px;
+  word-spacing: 1px;
+  text-align: center;
+}
+
+.h1{
+    font-size: xx-large;
+}
+.dh1{
+    position: absolute;
+    margin-left: 200px;
+    top: 200px;
+    font-size: xx-large;
+    color: white;
+    
+}
+.p1{
+    margin-right: 300px;
+    
+    
+}
+.md{
+    display: flex;
+    
+}
+.d1{
+    width: 100%;
+    height: 600px;
+    margin-top: 10px;
+    
+}
+.d2{
+    width: 100%;
+    height:600px ;
+    background-image: url('https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v20-pro-1.jpg');
+    background-repeat: no-repeat;
+    margin-top: -50;
+} 
+ 
+    
+    
+
+.d3{
+    width: 100%;
+    height:500px ;
+    background-image: url('https://149367133.v2.pressablecdn.com/wp-content/uploads/2023/11/231113-GadgetMatch-vivo-X100-Pro-China-Battery.jpg');
+    margin-top: 10px;
+   
+}
+.btn{
+    padding: 20px 40px;
+    background-color: transparent;
+    border: 2px solid white;
+    outline: none;
+    border-radius: 8px;
+    
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+.d2h1{
+    padding-left: 800px;
+    font-size: 60px;
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+    }
+    .d2h3{
+      padding-left: 700px;
+      line-height: 40px;
+      word-spacing: 5px;
+      font-family: Arial, Helvetica, sans-serif;
+    
+
+      
+
+    }
+   .desc{
+    height: 500px;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: center;
+    margin-top: -30px;
+
+    
+   } 
+   .p{
+    line-height: 20px;
+    justify-content: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;
+    text-transform: uppercase;
+    
+   }
+   .charger{
+    width: 100%;
+    height: 700px;
+    
+    background-image: url('https://techbriefly.com/wp-content/uploads/2022/01/Android-4.jpg');
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    background-size: cover;
+    margin-top: 20px;
+    border-radius: 20px;
+   }
+   .rp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: white;
+    margin-left: 1100px;
+    margin-top: 5px;
+    
+   }
+   .tracking-in-expand {
+    -webkit-animation: tracking-in-expand 3s cubic-bezier(0.215, 0.610, 0.355, 1.000) infinite both;
+            animation: tracking-in-expand 3s cubic-bezier(0.215, 0.610, 0.355, 1.000) infinite both;
+            font-size: 40px;
+  }
+  .group{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    
+  }
+  
+  
+  
+@-webkit-keyframes tracking-in-expand {
+  0% {
+    letter-spacing: -0.5em;
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes tracking-in-expand {
+  0% {
+    letter-spacing: -0.5em;
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+   
+     
